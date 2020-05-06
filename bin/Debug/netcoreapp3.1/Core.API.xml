@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Core.API</name>
+    </assembly>
+    <members>
+        <member name="T:Core.API.RelyExtension.SwaggerRely.ApiVersions">
+            <summary>
+            Api接口版本 自定义
+            </summary>
+        </member>
+        <member name="F:Core.API.RelyExtension.SwaggerRely.ApiVersions.V1">
+            <summary>
+            V1 版本
+            </summary>
+        </member>
+        <member name="F:Core.API.RelyExtension.SwaggerRely.ApiVersions.V2">
+            <summary>
+            V2 版本
+            </summary>
+        </member>
+    </members>
+</doc>
